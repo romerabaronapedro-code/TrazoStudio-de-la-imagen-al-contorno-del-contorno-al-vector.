@@ -1,0 +1,1 @@
+# TrazoStudio-de-la-imagen-al-contorno-del-contorno-al-vector.
