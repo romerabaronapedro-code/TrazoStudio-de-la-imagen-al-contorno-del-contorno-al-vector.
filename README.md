@@ -34,7 +34,7 @@ Incluye controles para ajustar umbrales, desenfoque, grosor de línea e inversi�
 ### Sombreado tonal
 Permite generar y ajustar sombreado mediante controles de brillo y contraste. El resultado se puede incorporar a la exportación como isolíneas para determinados flujos de trabajo CAD.
 
-### 📐 Exportación
+### Exportación
 Los resultados se pueden descargar en distintos formatos:
 
 - **PNG:** imagen de mapa de bits.
